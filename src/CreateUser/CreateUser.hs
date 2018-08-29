@@ -1,4 +1,4 @@
-module Main where
+module CreateUser.CreateUser where
 
 import System.Environment
 import Data.List.Split
