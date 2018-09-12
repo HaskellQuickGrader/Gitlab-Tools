@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 83b26589d73c1349b40dfdf765670881d80364cbb8b93b6ba8ce3771c02d4968
+-- hash: c570ebb22cf54d0232d24b868bb24c30a056154d06dc750f1d4a76ab556d4ddc
 
 name:           Gitlab-Tools
 version:        0.1.0.0
@@ -27,7 +27,6 @@ source-repository head
 library
   exposed-modules:
       CreateUser.CreateUser
-      Lib
   other-modules:
       Paths_Gitlab_Tools
   hs-source-dirs:
